@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ehte-01/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ehte-01/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/ehte-01/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ehte-01/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ehte-01/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ehte-01/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ehte-01/LeetCode/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/ehte-01/LeetCode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/ehte-01/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ehte-01/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -40,4 +42,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ehte-01/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ehte-01/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/ehte-01/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->

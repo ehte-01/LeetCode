@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ehte-01/LeetCode/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/ehte-01/LeetCode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/ehte-01/LeetCode/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
@@ -60,5 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ehte-01/LeetCode/tree/master/0067-add-binary) |
 | [0338-counting-bits](https://github.com/ehte-01/LeetCode/tree/master/0338-counting-bits) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ehte-01/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ehte-01/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->

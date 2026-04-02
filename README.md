@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ehte-01/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/ehte-01/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ehte-01/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/ehte-01/LeetCode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/ehte-01/LeetCode/tree/master/0476-number-complement) |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ehte-01/LeetCode/tree/master/0067-add-binary) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ehte-01/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

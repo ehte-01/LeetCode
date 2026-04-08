@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ehte-01/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/ehte-01/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ehte-01/LeetCode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/ehte-01/LeetCode/tree/master/0242-valid-anagram) |
@@ -85,5 +86,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ehte-01/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/ehte-01/LeetCode/tree/master/0136-single-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ehte-01/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

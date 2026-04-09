@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/ehte-01/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/ehte-01/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ehte-01/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/ehte-01/LeetCode/tree/master/0242-valid-anagram) |
 ## Linked List
@@ -37,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ehte-01/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/ehte-01/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/ehte-01/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ehte-01/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/ehte-01/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ehte-01/LeetCode/tree/master/0242-valid-anagram) |
 ## Merge Sort
 |  |
@@ -88,8 +91,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ehte-01/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/ehte-01/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/ehte-01/LeetCode/tree/master/0169-majority-element) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ehte-01/LeetCode/tree/master/0014-longest-common-prefix) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ehte-01/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

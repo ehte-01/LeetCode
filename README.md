@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ehte-01/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/ehte-01/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ehte-01/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ehte-01/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/ehte-01/LeetCode/tree/master/0338-counting-bits) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ehte-01/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0078-subsets](https://github.com/ehte-01/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ehte-01/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ehte-01/LeetCode/tree/master/0169-majority-element) |
 ## Trie
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ehte-01/LeetCode/tree/master/0169-majority-element) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ehte-01/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

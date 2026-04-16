@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ehte-01/LeetCode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/ehte-01/LeetCode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/ehte-01/LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/ehte-01/LeetCode/tree/master/0204-count-primes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ehte-01/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ehte-01/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ehte-01/LeetCode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/ehte-01/LeetCode/tree/master/0204-count-primes) |
 ## Trie
 |  |
 | ------- |
@@ -114,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ehte-01/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ehte-01/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ehte-01/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

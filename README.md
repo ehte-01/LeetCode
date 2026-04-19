@@ -91,12 +91,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ehte-01/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/ehte-01/LeetCode/tree/master/0067-add-binary) |
 ## Array
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ehte-01/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/ehte-01/LeetCode/tree/master/0031-next-permutation) |
+| [0054-spiral-matrix](https://github.com/ehte-01/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ehte-01/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/ehte-01/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ehte-01/LeetCode/tree/master/0136-single-number) |
@@ -129,5 +131,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ehte-01/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ehte-01/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->

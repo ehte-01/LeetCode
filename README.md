@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ehte-01/LeetCode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ehte-01/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ehte-01/LeetCode/tree/master/0031-next-permutation) |
 | [0142-linked-list-cycle-ii](https://github.com/ehte-01/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ehte-01/LeetCode/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/ehte-01/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ehte-01/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ehte-01/LeetCode/tree/master/0242-valid-anagram) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ehte-01/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/ehte-01/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/ehte-01/LeetCode/tree/master/0031-next-permutation) |
 | [0054-spiral-matrix](https://github.com/ehte-01/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ehte-01/LeetCode/tree/master/0073-set-matrix-zeroes) |

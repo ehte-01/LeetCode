@@ -1,21 +1,37 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        Set<List<Integer>> result = new HashSet<>();
-        int n = nums.length;
-        
-        for (int i=0; i<n-1; i++ ) {
+        Arrays.sort(nums);
+        List<List<Integer>> ans = new ArrayList<>();
 
-            Set<Integer> seen = new HashSet<>();
-            for(int j=i+1; j<n; j++) {
-                int complement = -(nums[i] + nums[j]);
-                    if (seen.contains(complement)){
-                        List<Integer> triplet = Arrays.asList(nums[i],nums[j],complement);
-                        Collections.sort(triplet);
-                        result.add(triplet);
-                    }
-                    seen.add(nums[j]);
+        int n = nums.length;
+
+        for (int i = 0; i < n - 2; i++){
+
+            if(i > 0 && nums[i] == nums[i-1]) continue ;
+
+            int left = i+1; int right = n-1;
+
+            while (left < right) {
+
+                int sum = nums[i] + nums[left] + nums[right] ;
+
+                if(sum == 0){
+
+                    ans.add(Arrays.asList(nums[i],nums[left],nums[right]));
+                    while (left+1 < right && nums[left] == nums[left+1]) left++;
+                    while (right-1 > left && nums[right] == nums[right-1]) right--;
+                    left++;
+                    right--;
+                } 
+                else if (sum < 0){
+                    left++;
                 }
+                else {
+                    right--;
+                }
+
             }
-             return new ArrayList<>(result);
         }
+         return ans;
     }
+}

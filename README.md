@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ehte-01/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/ehte-01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ehte-01/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/ehte-01/LeetCode/tree/master/0238-product-of-array-except-self) |
 ## Trie
 |  |
 | ------- |
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ehte-01/LeetCode/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ehte-01/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

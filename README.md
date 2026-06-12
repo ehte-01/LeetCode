@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ehte-01/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/ehte-01/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/ehte-01/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ehte-01/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/ehte-01/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ehte-01/LeetCode/tree/master/0169-majority-element) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ehte-01/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ehte-01/LeetCode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/ehte-01/LeetCode/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/ehte-01/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ehte-01/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ehte-01/LeetCode/tree/master/0217-contains-duplicate) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ehte-01/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ehte-01/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/ehte-01/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ehte-01/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ehte-01/LeetCode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/ehte-01/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ehte-01/LeetCode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/ehte-01/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/ehte-01/LeetCode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/ehte-01/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ehte-01/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ehte-01/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/ehte-01/LeetCode/tree/master/0078-subsets) |

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ehte-01/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ehte-01/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ehte-01/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/ehte-01/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/ehte-01/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ehte-01/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ehte-01/LeetCode/tree/master/0202-happy-number) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ehte-01/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ehte-01/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/ehte-01/LeetCode/tree/master/0078-subsets) |
+| [0128-longest-consecutive-sequence](https://github.com/ehte-01/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ehte-01/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ehte-01/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ehte-01/LeetCode/tree/master/0189-rotate-array) |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ehte-01/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ehte-01/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

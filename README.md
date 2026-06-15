@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ehte-01/LeetCode/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ehte-01/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ehte-01/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/ehte-01/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/ehte-01/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ehte-01/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ehte-01/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -85,10 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ehte-01/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/ehte-01/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ehte-01/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0338-counting-bits](https://github.com/ehte-01/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/ehte-01/LeetCode/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ehte-01/LeetCode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/ehte-01/LeetCode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/ehte-01/LeetCode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/ehte-01/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ehte-01/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/ehte-01/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ehte-01/LeetCode/tree/master/0054-spiral-matrix) |
@@ -203,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ehte-01/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ehte-01/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

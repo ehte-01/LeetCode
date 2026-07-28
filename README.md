@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ehte-01/LeetCode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/ehte-01/LeetCode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/ehte-01/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/ehte-01/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/ehte-01/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ehte-01/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ehte-01/LeetCode/tree/master/0046-permutations) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ehte-01/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/ehte-01/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ehte-01/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ehte-01/LeetCode/tree/master/0078-subsets) |
 ## String Matching
